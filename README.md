@@ -1,5 +1,5 @@
 # eyrc22_DB_1007
-This repository is for EYRC.
+This repository is for EYRC competition. This repo does not contain codes as it is confidential as per E-Yantra's policy.
 
 Balancing (4x speed):
 
