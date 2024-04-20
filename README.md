@@ -1,5 +1,5 @@
 # eyrc22_DB_1007
-This repository is designated for the EYRC competition. It does not include any codes, as they are confidential according to E-Yantra's policy.
+The self-balancing bike developed for the EYRC competition. It does not include any codes, as they are confidential according to E-Yantra's policy.
 
 Balancing (4x speed):
 
